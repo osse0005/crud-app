@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "Tim",
+      "lastName": "Osse",
+      "email": "tim.osse@cgi.com",
+      "dob": "1988-12-14T08:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "CGI Inc.",
+      "experience": "10",
+      "package": "12",
+      "id": "daeb"
+    },
+    {
+      "id": "545e",
+      "firstName": "Jack",
+      "lastName": "Black",
+      "email": "black@gmail.com",
+      "dob": "2024-09-05T07:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "sdf",
+      "experience": "12",
+      "package": "12"
+    }
+  ]
+}
